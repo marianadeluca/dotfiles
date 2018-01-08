@@ -1,6 +1,6 @@
 [user]
-	name = Lucas Pélos
-	email = lucas.pelos@gmail.com
+	name = Mariana De Luca Reis
+	email = marianadeluca.reis@gmail.com
 [alias]
 	ci = commit
 	co = checkout
@@ -12,7 +12,7 @@
 [credential]
 	helper = cache
 [core]
-	excludesfile = /home/lucas/.gitignore
+	excludesfile = /home/mariana/.gitignore
 [push]
 	default = current
 [color]
